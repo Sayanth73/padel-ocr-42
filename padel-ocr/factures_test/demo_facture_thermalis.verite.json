@@ -1,0 +1,53 @@
+{
+ "fichier": "demo_facture_thermalis.pdf",
+ "verifie": "oui — texte exact du PDF numérique (document fictif de la démo Consularis)",
+ "options": {
+  "texte_integre": false,
+  "filigrane": null
+ },
+ "champs": [
+  "nom",
+  "ean",
+  "qte",
+  "prix_tarif",
+  "remise_pct",
+  "prix_net",
+  "montant",
+  "tva_pct"
+ ],
+ "lignes": [
+  {
+   "page": 1,
+   "nom": "Nasalis Toux sèche sirop 125 ml",
+   "ean": "3700000000112",
+   "qte": 24,
+   "prix_tarif": 4.7,
+   "remise_pct": 30.0,
+   "prix_net": 3.29,
+   "montant": 78.96,
+   "tva_pct": 10.0
+  },
+  {
+   "page": 1,
+   "nom": "Charbon des Alpes gélules x40",
+   "ean": "3700000000113",
+   "qte": 12,
+   "prix_tarif": 7.9,
+   "remise_pct": 30.0,
+   "prix_net": 5.53,
+   "montant": 66.36,
+   "tva_pct": 10.0
+  },
+  {
+   "page": 1,
+   "nom": "Pansements Universels x36",
+   "ean": "3700000000102",
+   "qte": 48,
+   "prix_tarif": 3.54,
+   "remise_pct": 30.0,
+   "prix_net": 2.478,
+   "montant": 118.94,
+   "tva_pct": 20.0
+  }
+ ]
+}

@@ -1,0 +1,911 @@
+{
+ "fichier": "urgo_tarif_2026.pdf",
+ "verifie": "2026-11-05 : chaque ligne comparée visuellement à l'original (prix, EAN, ancien EAN, TVA, arrêt)",
+ "notes": [
+  "3586890047222 : clé EAN invalide dans le document lui-même (probablement 3546890047222)",
+  "3401060253491 (ancien EAN) : clé invalide dans le document lui-même",
+  "3664492000367 : même EAN pour 'Inhaler vrac' et 'présentoir' dans le document"
+ ],
+ "lignes": [
+  {
+   "page": 1,
+   "nom": "Humex Rhume Jour/Nuit",
+   "ean": "3400934474637",
+   "ancien_ean": "",
+   "prix_negocie": 7.72,
+   "tva_pct": 10.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Humex Solution nasale",
+   "ean": "3400934825774",
+   "ancien_ean": "",
+   "prix_negocie": 5.71,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humexlib Gélules",
+   "ean": "3400933359881",
+   "ancien_ean": "",
+   "prix_negocie": 5.92,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex Rhume des Foins",
+   "ean": "3400934321313",
+   "ancien_ean": "",
+   "prix_negocie": 9.71,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex Allergie Cétirizine",
+   "ean": "3400937688369",
+   "ancien_ean": "",
+   "prix_negocie": 3.2,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex Allergie Loratadine",
+   "ean": "3400949894338",
+   "ancien_ean": "",
+   "prix_negocie": 3.34,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex conjonctivite allergique unidose",
+   "ean": "3400935673398",
+   "ancien_ean": "",
+   "prix_negocie": 5.7,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "URGO Desloratadine",
+   "ean": "3400927326707",
+   "ancien_ean": "",
+   "prix_negocie": 3.36,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex collutoire",
+   "ean": "3400938535594",
+   "ancien_ean": "",
+   "prix_negocie": 4.6,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "humex mal de gorge miel citron",
+   "ean": "3400938120172",
+   "ancien_ean": "",
+   "prix_negocie": 8.54,
+   "tva_pct": 10.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Humex mal de gorge sans sucre fruits rouges",
+   "ean": "3400936352650",
+   "ancien_ean": "",
+   "prix_negocie": 8.54,
+   "tva_pct": 10.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Humex mal de gorge lidocaine menthe avec sucre",
+   "ean": "3400930039625",
+   "ancien_ean": "",
+   "prix_negocie": 5.65,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex mal de gorge Lidocaïne miel citron",
+   "ean": "3400930039663",
+   "ancien_ean": "",
+   "prix_negocie": 5.65,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex mal de gorge Lidocaïne miel citron sans sucre",
+   "ean": "3400930039762",
+   "ancien_ean": "",
+   "prix_negocie": 5.65,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex mal de gorge Lidocaïne menthe glaciale sans sucre",
+   "ean": "3400930039717",
+   "ancien_ean": "",
+   "prix_negocie": 5.65,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex Oxomemazine, sirop 150 ml",
+   "ean": "3400949246526",
+   "ancien_ean": "",
+   "prix_negocie": 4.85,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex Oxomemazine, sans sucre solution buvable",
+   "ean": "3400949215249",
+   "ancien_ean": "",
+   "prix_negocie": 4.85,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humex Toux Grasse Adulte, sans sucre 250 ml",
+   "ean": "3400939393216",
+   "ancien_ean": "",
+   "prix_negocie": 4.61,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Lierre Grimpant Humexphyto sans sucre, solution buvable 100 ml",
+   "ean": "3400930077818",
+   "ancien_ean": "",
+   "prix_negocie": 4.1,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Echinacée Pourpre HumexPhyto, comprimés pelliculés",
+   "ean": "3400930148020",
+   "ancien_ean": "",
+   "prix_negocie": null,
+   "tva_pct": 10.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Sirop Enfants et Nourrissons ,125 ml",
+   "ean": "3400934110405",
+   "ancien_ean": "",
+   "prix_negocie": 5.47,
+   "tva_pct": 10.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Hygiène de l'oreille, 100 ml",
+   "ean": "3664492000923",
+   "ancien_ean": "",
+   "prix_negocie": 8.87,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Bouchon de Cérumen, 50 ml",
+   "ean": "3664492000916",
+   "ancien_ean": "",
+   "prix_negocie": 8.26,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Hygiène Adulte 150 ml",
+   "ean": "3401071709231",
+   "ancien_ean": "",
+   "prix_negocie": null,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Hygiène quotidienne, 100ml",
+   "ean": "3664492001203",
+   "ancien_ean": "",
+   "prix_negocie": 4.18,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Hygiène du nez adulte, 150 ml",
+   "ean": "3664492014739",
+   "ancien_ean": "",
+   "prix_negocie": 6.71,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Adulte lot de 2 BFR",
+   "ean": "3664492014494",
+   "ancien_ean": "",
+   "prix_negocie": 11.54,
+   "tva_pct": null,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Hygiène du nez nourisson enfant, 150 ml",
+   "ean": "3664492014746",
+   "ancien_ean": "",
+   "prix_negocie": 6.71,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Hygiène Enfant 150 ml",
+   "ean": "3401071709460",
+   "ancien_ean": "",
+   "prix_negocie": null,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Hygiène Adulte - Enfant 100 ml",
+   "ean": "3664492019222",
+   "ancien_ean": "3401520153592",
+   "prix_negocie": 5.85,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Nez bouché Adulte 50 ml",
+   "ean": "3401046587079",
+   "ancien_ean": "",
+   "prix_negocie": null,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Nez bouché adulte enfant, 50 ml",
+   "ean": "3664492023458",
+   "ancien_ean": "",
+   "prix_negocie": 6.11,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Nez bouché Enfant 50 ml",
+   "ean": "3401046586997",
+   "ancien_ean": "",
+   "prix_negocie": null,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Humer Sinusite, Spray 15 ml",
+   "ean": "3664492000350",
+   "ancien_ean": "",
+   "prix_negocie": 11.59,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Boîte 20 embouts jetables",
+   "ean": "3664492001401",
+   "ancien_ean": "3401560231304",
+   "prix_negocie": 11.03,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Humer Inhaler vrac",
+   "ean": "3664492000367",
+   "ancien_ean": "",
+   "prix_negocie": 4.41,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer présentoir inhaler, 48 unités",
+   "ean": "3664492000367",
+   "ancien_ean": "",
+   "prix_negocie": 209.67,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Baume",
+   "ean": "3664492022093",
+   "ancien_ean": "",
+   "prix_negocie": 7.44,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Humer Inhalation",
+   "ean": "3664492022109",
+   "ancien_ean": "",
+   "prix_negocie": 5.89,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Décongestionnant, 20 ml",
+   "ean": "3664492000343",
+   "ancien_ean": "",
+   "prix_negocie": 6.48,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Stop Virus - spray nasal - 15 ml",
+   "ean": "3401360033115",
+   "ancien_ean": "",
+   "prix_negocie": 10.8,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Humer Toux",
+   "ean": "3401560120028",
+   "ancien_ean": "",
+   "prix_negocie": 6.41,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Sirop Toux et Irritation",
+   "ean": "3664492019864",
+   "ancien_ean": "",
+   "prix_negocie": 7.5,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Rhinite Allergique, spray 20 ml",
+   "ean": "3664492022352",
+   "ancien_ean": "",
+   "prix_negocie": 7.87,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Stop Allergie photothérapie",
+   "ean": "3664492017921",
+   "ancien_ean": "",
+   "prix_negocie": 24.76,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Humer Pharyngite Fruits Rouges",
+   "ean": "3401360188792",
+   "ancien_ean": "",
+   "prix_negocie": 6.61,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Pharyngite Miel-Citron",
+   "ean": "3664492018553",
+   "ancien_ean": "3664492000381",
+   "prix_negocie": 6.61,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Gorge Irritée menthe-eucalyptus",
+   "ean": "3664492019758",
+   "ancien_ean": "",
+   "prix_negocie": 5.82,
+   "tva_pct": 5.5,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer Gommes gorge sensible, 30 gommes",
+   "ean": "3664492020068",
+   "ancien_ean": "3664492014210",
+   "prix_negocie": 7.72,
+   "tva_pct": 5.5,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Trod angine AAZ kit de 25 tests",
+   "ean": "3770011742691",
+   "ancien_ean": "",
+   "prix_negocie": 46.9,
+   "tva_pct": 20.0,
+   "arret": true
+  },
+  {
+   "page": 1,
+   "nom": "Humer Gommes gorge irritée miel-citron",
+   "ean": "3664492019697",
+   "ancien_ean": "",
+   "prix_negocie": 5.82,
+   "tva_pct": 5.5,
+   "arret": false
+  },
+  {
+   "page": 1,
+   "nom": "Humer miel Manuka Actif IAA 5+ 250 g",
+   "ean": "3664492000640",
+   "ancien_ean": "",
+   "prix_negocie": null,
+   "tva_pct": null,
+   "arret": true
+  },
+  {
+   "page": 2,
+   "nom": "Bte 16 pts 20 cm x 20 cm",
+   "ean": "3546890041947",
+   "ancien_ean": "3546890000098",
+   "prix_negocie": 201.07,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Bte 16 pts 6 cm x 6 cm",
+   "ean": "3546890040193",
+   "ancien_ean": "",
+   "prix_negocie": 21.76,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Bte 16 pts 13 cm x 12 cm",
+   "ean": "3546890040285",
+   "ancien_ean": "",
+   "prix_negocie": 90.68,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Bte 16 pts 15 cm x 20 cm",
+   "ean": "3546890040261",
+   "ancien_ean": "",
+   "prix_negocie": 169.69,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Bte 16 pts 15 cm x 20 cm",
+   "ean": "3546890041343",
+   "ancien_ean": "",
+   "prix_negocie": 169.69,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Bte de 16 pts 6x6",
+   "ean": "3546890047208",
+   "ancien_ean": "",
+   "prix_negocie": 21.76,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Bte de 16 pts 10x10",
+   "ean": "3546890047215",
+   "ancien_ean": "",
+   "prix_negocie": 58.1,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Bte de 16 pts 13x12",
+   "ean": "3586890047222",
+   "ancien_ean": "",
+   "prix_negocie": 90.68,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 10 cm x 12 cm",
+   "ean": "3401097172835",
+   "ancien_ean": "",
+   "prix_negocie": 30.47,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boite de 10 pansements 15 cm x 20 cm",
+   "ean": "3401075547242",
+   "ancien_ean": "",
+   "prix_negocie": 56.35,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 10 cm x 40 cm",
+   "ean": "3401077609559",
+   "ancien_ean": "",
+   "prix_negocie": 74.9,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 8 cm x 8 cm",
+   "ean": "3546890042630",
+   "ancien_ean": "3401521070096",
+   "prix_negocie": 13.01,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 13 cm x 13 cm",
+   "ean": "3546890042661",
+   "ancien_ean": "3401521070157",
+   "prix_negocie": 31.25,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 6,5 cm x 10 cm",
+   "ean": "3401564894796",
+   "ancien_ean": "",
+   "prix_negocie": 9.29,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 8 cm x 15 cm",
+   "ean": "3546890042647",
+   "ancien_ean": "3401565095611",
+   "prix_negocie": 17.16,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 10 cm x 25 cm",
+   "ean": "3401565096151",
+   "ancien_ean": "",
+   "prix_negocie": 31.23,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 15 cm x 20 cm",
+   "ean": "3546890044351",
+   "ancien_ean": "3401521070218",
+   "prix_negocie": 41.64,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 20 cm x 20 cm (Sacrum)",
+   "ean": "3546890044467",
+   "ancien_ean": "3401521070386",
+   "prix_negocie": 50.31,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10pansements 6,5 cm x 10 cm",
+   "ean": "3546890042371",
+   "ancien_ean": "",
+   "prix_negocie": 9.52,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 13 cm x 12 cm",
+   "ean": "3546890043156",
+   "ancien_ean": "3401060254346",
+   "prix_negocie": 22.88,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 10 cm x 20 cm",
+   "ean": "3546890043187",
+   "ancien_ean": "3401060253491",
+   "prix_negocie": 29.34,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 15 cm x 20 cm",
+   "ean": "3546890043200",
+   "ancien_ean": "3401099529378",
+   "prix_negocie": 42.68,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 6,5 cm x 10 cm",
+   "ean": "3546890042395",
+   "ancien_ean": "3401060254476",
+   "prix_negocie": 8.72,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 8 cm x 8 cm",
+   "ean": "3546890042418",
+   "ancien_ean": "3401060254452",
+   "prix_negocie": 8.72,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 10 cm x 12 cm",
+   "ean": "3546890042432",
+   "ancien_ean": "3401060254469",
+   "prix_negocie": 16.1,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 10 cm x 20 cm",
+   "ean": "3401099529897",
+   "ancien_ean": "",
+   "prix_negocie": 26.84,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 15 cm x 20 cm",
+   "ean": "3546890042586",
+   "ancien_ean": "3401099529958",
+   "prix_negocie": 39.05,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 13 cm x 12 cm",
+   "ean": "3401099528319",
+   "ancien_ean": "",
+   "prix_negocie": 34.15,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 15 cm x 20 cm",
+   "ean": "3546890045204",
+   "ancien_ean": "3401099528487",
+   "prix_negocie": 45.5,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 6 cm x 10 cm",
+   "ean": "3546890000005",
+   "ancien_ean": "",
+   "prix_negocie": 16.61,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 13 cm x 12 cm",
+   "ean": "3546890000029",
+   "ancien_ean": "",
+   "prix_negocie": 44.82,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 15 cm x 20 cm",
+   "ean": "3546890000012",
+   "ancien_ean": "",
+   "prix_negocie": 88.14,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 10 cm x 12 cm",
+   "ean": "3401095843850",
+   "ancien_ean": "",
+   "prix_negocie": 33.49,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 15 cm x 20 cm",
+   "ean": "3401095843799",
+   "ancien_ean": "",
+   "prix_negocie": 88.14,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 6,5 cm x 10 cm",
+   "ean": "3401094601925",
+   "ancien_ean": "",
+   "prix_negocie": 11.71,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 6,5 cm x 10 cm",
+   "ean": "3401099528609",
+   "ancien_ean": "",
+   "prix_negocie": 16.4,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 8 cm x 8 cm",
+   "ean": "3401094601635",
+   "ancien_ean": "",
+   "prix_negocie": 11.54,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 8 cm x 8 cm",
+   "ean": "3401099528777",
+   "ancien_ean": "",
+   "prix_negocie": 16.16,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 10 pansements 10 cm x 12 cm",
+   "ean": "3401094601864",
+   "ancien_ean": "",
+   "prix_negocie": 21.89,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Boîte de 16 pansements 10 cm x 12 cm",
+   "ean": "3401099528838",
+   "ancien_ean": "",
+   "prix_negocie": 30.64,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Kit UrgoK2 18 cm - 25 cm / 8 cm",
+   "ean": "3546890037766",
+   "ancien_ean": "3401020644415",
+   "prix_negocie": 10.98,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Kit UrgoK2 18 cm - 25 cm / 10 cm",
+   "ean": "3401096745795",
+   "ancien_ean": "",
+   "prix_negocie": 12.0,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Kit UrgoK2 18 cm - 25 cm / 12 cm",
+   "ean": "3546890037780",
+   "ancien_ean": "3401020644583",
+   "prix_negocie": 12.57,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Kit UrgoK2 25 cm - 32 cm / 8 cm",
+   "ean": "3546890037773",
+   "ancien_ean": "3401020644644",
+   "prix_negocie": 12.83,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Kit UrgoK2 25 cm - 32 cm / 10 cm",
+   "ean": "3546890037803",
+   "ancien_ean": "3401096745856",
+   "prix_negocie": 13.86,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Kit UrgoK2 25 cm - 32 cm / 12 cm",
+   "ean": "3546890037797",
+   "ancien_ean": "3401020644705",
+   "prix_negocie": 14.12,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Kit UrgoK2 Latex Free 18 cm - 25 cm / 10 cm",
+   "ean": "3546890029495",
+   "ancien_ean": "3401020644934",
+   "prix_negocie": 12.0,
+   "tva_pct": 20.0,
+   "arret": false
+  },
+  {
+   "page": 2,
+   "nom": "Kit UrgoK2 Latex Free 25 cm - 32 cm / 10 cm",
+   "ean": "3546890029488",
+   "ancien_ean": "",
+   "prix_negocie": 13.86,
+   "tva_pct": 20.0,
+   "arret": false
+  }
+ ]
+}

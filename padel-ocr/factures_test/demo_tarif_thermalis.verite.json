@@ -1,0 +1,207 @@
+{
+ "fichier": "demo_tarif_thermalis.pdf",
+ "verifie": "oui — texte exact du PDF numérique (document fictif de la démo Consularis)",
+ "options": {
+  "texte_integre": false,
+  "filigrane": null
+ },
+ "champs": [
+  "nom",
+  "ean",
+  "ancien_ean",
+  "prix_negocie",
+  "groupage",
+  "tva_pct",
+  "arret",
+  "categorie"
+ ],
+ "lignes": [
+  {
+   "page": 1,
+   "nom": "Pansements Résistants x24",
+   "ean": "3700000000101",
+   "ancien_ean": "",
+   "prix_negocie": 4.62,
+   "groupage": 12,
+   "tva_pct": 20.0,
+   "arret": false,
+   "categorie": "Pansements"
+  },
+  {
+   "page": 1,
+   "nom": "Pansements Universels x36",
+   "ean": "3700000000102",
+   "ancien_ean": "",
+   "prix_negocie": 3.54,
+   "groupage": 24,
+   "tva_pct": 20.0,
+   "arret": false,
+   "categorie": "Pansements"
+  },
+  {
+   "page": 1,
+   "nom": "Bande à découper 1 m x 8 cm",
+   "ean": "3700000000103",
+   "ancien_ean": "",
+   "prix_negocie": 2.86,
+   "groupage": 12,
+   "tva_pct": 20.0,
+   "arret": false,
+   "categorie": "Pansements"
+  },
+  {
+   "page": 1,
+   "nom": "Pansements Peau sensible x18",
+   "ean": "3700000000104",
+   "ancien_ean": "",
+   "prix_negocie": 4.27,
+   "groupage": 12,
+   "tva_pct": 20.0,
+   "arret": false,
+   "categorie": "Pansements"
+  },
+  {
+   "page": 1,
+   "nom": "Filméa Crevasses mains 3,5 ml",
+   "ean": "3700000000105",
+   "ancien_ean": "",
+   "prix_negocie": 14.2,
+   "groupage": 12,
+   "tva_pct": 20.0,
+   "arret": false,
+   "categorie": "Soins de la peau"
+  },
+  {
+   "page": 1,
+   "nom": "Filméa Aphtes 8 ml",
+   "ean": "3700000000106",
+   "ancien_ean": "",
+   "prix_negocie": 11.9,
+   "groupage": 12,
+   "tva_pct": 20.0,
+   "arret": false,
+   "categorie": "Soins de la peau"
+  },
+  {
+   "page": 1,
+   "nom": "Filméa Mycoses express 4 ml",
+   "ean": "3700000000107",
+   "ancien_ean": "",
+   "prix_negocie": 22.8,
+   "groupage": 12,
+   "tva_pct": 20.0,
+   "arret": false,
+   "categorie": "Soins de la peau"
+  },
+  {
+   "page": 1,
+   "nom": "Verrues Cryo 50 ml",
+   "ean": "3700000000108",
+   "ancien_ean": "",
+   "prix_negocie": 18.6,
+   "groupage": 12,
+   "tva_pct": 20.0,
+   "arret": false,
+   "categorie": "Verrues"
+  },
+  {
+   "page": 1,
+   "nom": "Verrues Stylo 3 ml",
+   "ean": "3700000000109",
+   "ancien_ean": "",
+   "prix_negocie": 16.9,
+   "groupage": 12,
+   "tva_pct": 20.0,
+   "arret": false,
+   "categorie": "Verrues"
+  },
+  {
+   "page": 1,
+   "nom": "Nasalis Rhume des foins spray 20 ml",
+   "ean": "3700000000110",
+   "ancien_ean": "",
+   "prix_negocie": 9.4,
+   "groupage": 30,
+   "tva_pct": 10.0,
+   "arret": false,
+   "categorie": "Rhume et allergie"
+  },
+  {
+   "page": 1,
+   "nom": "Nasalis Rhume spray 15 ml (ancien format)",
+   "ean": "3700000000199",
+   "ancien_ean": "",
+   "prix_negocie": 8.95,
+   "groupage": 30,
+   "tva_pct": 10.0,
+   "arret": true,
+   "categorie": "Rhume et allergie"
+  },
+  {
+   "page": 1,
+   "nom": "Nasalis Gorge pastilles miel-citron x24",
+   "ean": "3700000000111",
+   "ancien_ean": "",
+   "prix_negocie": 5.3,
+   "groupage": 30,
+   "tva_pct": 10.0,
+   "arret": false,
+   "categorie": "Gorge et toux"
+  },
+  {
+   "page": 1,
+   "nom": "Nasalis Toux sèche sirop 125 ml",
+   "ean": "3700000000112",
+   "ancien_ean": "",
+   "prix_negocie": 4.7,
+   "groupage": 24,
+   "tva_pct": 10.0,
+   "arret": false,
+   "categorie": "Gorge et toux"
+  },
+  {
+   "page": 1,
+   "nom": "Charbon des Alpes gélules x40",
+   "ean": "3700000000113",
+   "ancien_ean": "",
+   "prix_negocie": 7.9,
+   "groupage": 12,
+   "tva_pct": 10.0,
+   "arret": false,
+   "categorie": "Digestion"
+  },
+  {
+   "page": 1,
+   "nom": "Vitalys Sirop multivitamines 125 ml",
+   "ean": "3700000000114",
+   "ancien_ean": "",
+   "prix_negocie": 12.4,
+   "groupage": 12,
+   "tva_pct": 5.5,
+   "arret": false,
+   "categorie": "Vitamines et minéraux"
+  },
+  {
+   "page": 1,
+   "nom": "Vitalys Magnésium B6 x45",
+   "ean": "3700000000115",
+   "ancien_ean": "",
+   "prix_negocie": 9.6,
+   "groupage": 12,
+   "tva_pct": 5.5,
+   "arret": false,
+   "categorie": "Vitamines et minéraux"
+  },
+  {
+   "page": 1,
+   "nom": "Vitalys Acérola 500 x24",
+   "ean": "3700000000116",
+   "ancien_ean": "",
+   "prix_negocie": 7.2,
+   "groupage": 12,
+   "tva_pct": 5.5,
+   "arret": false,
+   "categorie": "Vitamines et minéraux"
+  }
+ ]
+}
